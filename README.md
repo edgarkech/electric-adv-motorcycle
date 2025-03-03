@@ -13,4 +13,4 @@ Must have:
 Nice to have:
 - capable of doing some gravel and light offroad stuff (more than 160mm suspension travel, 19" or 21" front wheel)
 
-This github repository is all about organizing and starting up this project. I will start with some wiki pages explaining my motivation, detailing the requirements and of course collecting information.
+This github repository is all about organizing and starting up this project. I will start with some wiki pages explaining my motivation, detailing the requirements and of course collecting information (find it here: https://github.com/edgarkech/electric-adv-motorcycle/wiki).
